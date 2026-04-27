@@ -1,0 +1,5 @@
+**/__pycache__/
+logs/
+logs_jac608/
+datasets/
+.env
