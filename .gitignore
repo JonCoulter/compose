@@ -1,0 +1,12 @@
+datasets/
+models/
+slurm_logs/
+slurm_logs_jac608/
+logs/
+vllm_env/
+.hf_cache/
+.uv_cache/
+.DS_Store
+figs/
+.cache/
+.config/
